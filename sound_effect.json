@@ -1,0 +1,12 @@
+
+{
+  "ver":1.0,
+  "se":{
+    "26":{"url":"https://soundeffect-lab.info/sound/voice/mp3//game/princess-faint1.mp3"},
+    "28":{"url":"https://soundeffect-lab.info/sound/voice/mp3//game/princess-damage2.mp3"},
+    "30":{"url":"https://soundeffect-lab.info/sound/voice/mp3//game/princess-damage1.mp3"},
+    "32":{"url":"https://soundeffect-lab.info/sound/voice/mp3//game/princess-guard2.mp3"},
+    "34":{"url":"https://soundeffect-lab.info/sound/voice/mp3//game/princess-guard1.mp3"},
+    "36":{"url":"https://soundeffect-lab.info/sound/voice/mp3//game/princess-special3.mp3"}
+  }
+}
